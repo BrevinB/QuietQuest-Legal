@@ -1,7 +1,7 @@
 # Privacy Policy
 
-**Effective Date:** January 15, 2025
-**Last Updated:** January 15, 2025
+**Effective Date:** October 19, 2025
+**Last Updated:** October 19, 2025
 
 QuietQuest ("we," "us," or "our") is committed to protecting your privacy. This Privacy Policy explains how we collect, use, disclose, and safeguard your information when you use our mobile application ("App").
 
