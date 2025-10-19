@@ -1,7 +1,7 @@
 # Terms of Service
 
-**Effective Date:** January 15, 2025
-**Last Updated:** January 15, 2025
+**Effective Date:** October 19, 2025
+**Last Updated:** October 19, 2025
 
 Welcome to QuietQuest. These Terms of Service ("Terms") govern your use of the QuietQuest mobile application ("App," "Service," or "QuietQuest") and constitute a legal agreement between you ("User," "you," or "your") and QuietQuest ("we," "us," or "our").
 
